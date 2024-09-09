@@ -1,0 +1,1 @@
+# playframework-feign-example
